@@ -36,9 +36,7 @@ Here are some ideas to get you started:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepak-j5&show_icons=true&theme=tokyonight" alt="Deepak's GitHub stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=deepak-j5&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+   <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-j5&layout=pie&langs_count=4&card_width=320&theme=chartreuse-dark" />
 </p>
 
 ---
